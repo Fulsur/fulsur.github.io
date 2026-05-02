@@ -3,7 +3,7 @@ home: true
 layout: Blog
 icon: house
 title: 主页
-heroImage: https://github.com/Fulsur/fulsur.github.io/blob/main/src/.vuepress/public/Fulsur.png
+heroImage: https://raw.githubusercontent.com/Fulsur/fulsur.github.io/refs/heads/main/src/.vuepress/public/Fulsur.png
 heroText: Fulsur的Blog
 heroFullScreen: true
 tagline: 双鸟暂时离分，必有重逢之日
