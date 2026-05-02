@@ -13,7 +13,7 @@ export default hopeTheme({
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "Fulsur/fulsur.github.io",
+  repo: "Fulsur/VuePress-Blog",
 
   docsDir: "src",
 
