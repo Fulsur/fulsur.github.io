@@ -3,7 +3,7 @@ home: true
 layout: Blog
 icon: house
 title: 主页
-heroImage: https://theme-hope-assets.vuejs.press/Fulsur.png
+heroImage: /src/.vuepress/public/Fulsur.png
 heroText: Fulsur的Blog
 heroFullScreen: true
 tagline: 双鸟暂时离分，必有重逢之日
