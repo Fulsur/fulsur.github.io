@@ -11,9 +11,9 @@ export default hopeTheme({
     url: "https://fulsur.com",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://raw.githubusercontent.com/Fulsur/fulsur.github.io/refs/heads/main/src/.vuepress/public/haru_logo.png",
 
-  repo: "Fulsur/VuePress-Blog",
+  repo: "Fulsur/fulsur.github.io",
 
   docsDir: "src",
 
@@ -76,8 +76,8 @@ export default hopeTheme({
   encrypt: {
     config: {
       "/demo/encrypt.html": {
-        hint: "Password: 1234",
-        password: "1234",
+        hint: "Password: 056300",
+        password: "056300",
       },
       "/zh/demo/encrypt.html": {
         hint: "Password: 056300",
