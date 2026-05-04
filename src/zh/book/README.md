@@ -1,4 +1,5 @@
 ---
+sidebar: false
 icon: book
 title: 书籍
 ---
