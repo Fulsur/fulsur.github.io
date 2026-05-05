@@ -1,8 +1,7 @@
 ---
-icon: circle-info
-cover: /assets/images/cover3.jpg
+cover: /assets/images/dawn tree.jpg
 ---
 
-# Fulsur
+# 这里是Fulsur
 
-大三在读生一枚，
+大三在读生一枚。
