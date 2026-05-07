@@ -1,8 +1,7 @@
 ---
-icon: circle-info
-cover: /assets/images/cover3.jpg
+cover: /assets/images/dawn tree.jpg
 ---
 
-# Intro Page
+# This is Fulsur
 
-Place your introduction and profile here.
+A university student in the third year.
